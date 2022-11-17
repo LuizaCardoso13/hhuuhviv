@@ -9,3 +9,7 @@ Em 7 de junho de 2015, foi anunciado que o Catar poderia perder o direito de sed
 O Catar sofreu diversas criticas sobre as condições dos trabalhadores dos novos estádios para a competição, sendo que a Anistia Internacional referiu-se como trabalho escravo as condições dos trabalhadores, que sofriam abusos de direitos humanos, violando diversas regras da instituição.[8]
 
 A FIFA apresentou o mascote oficial da Copa do Mundo de 2022. Trata-se de La'eeb , um simpático lenço de cabeça masculino tradicional da cultura árabe. Segundo a FIFA, a palavra La’eeb significa jogador habilidoso em árab
+
+<div aling="center">
+<img scr="https://user-images.githubusercontent.com/118439213/202442765-71fb89f1-b112-4e27-9f6c-7d6f2f532404.jpg/">
+</div>
