@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport">
-<title>COPA DO MUNDO</title>
+COPA DO MUNDO
 
 
 <p> Copa do Mundo FIFA de 2022 ou Campeonato Mundial de Futebol FIFA de 2022 será a vigésima segunda edição deste evento esportivo, um torneio internacional de futebol masculino organizado pela Federação Internacional de Futebol (FIFA), que ocorrerá no Catar. A edição de 2022 será a primeira realizada no Oriente Médio e a última a ter o formato de 32 equipes, já que a competição terá uma mudança no formato e número de equipes na edição de 2026, onde será sediado no Canadá, Estados Unidos e México, passando para 48 equipes.</p><br>
